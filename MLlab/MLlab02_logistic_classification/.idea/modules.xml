@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../ADV/.idea/ADV.iml" filepath="$PROJECT_DIR$/../../ADV/.idea/ADV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/MLlab.iml" filepath="$PROJECT_DIR$/../.idea/MLlab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MLlab02_logistic_reg.iml" filepath="$PROJECT_DIR$/.idea/MLlab02_logistic_reg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bAbi/.idea/bAbi.iml" filepath="$PROJECT_DIR$/../../bAbi/.idea/bAbi.iml" />
+    </modules>
+  </component>
+</project>
